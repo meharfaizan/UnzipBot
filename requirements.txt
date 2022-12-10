@@ -1,4 +1,4 @@
-pyrogram
+Pyrogram==1.4.4
 TgCrypto
 rarfile
 humanize
